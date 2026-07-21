@@ -23,7 +23,6 @@ rank-bm25==0.2.2
 datasets==5.0.0
 einops==0.8.2 
 seaborn==0.13.2
-pymupdf==1.28.0
 #pandas 
 matplotlib==3.10.9
 #ipywidgets 
@@ -32,6 +31,5 @@ pillow==12.3.0
 huggingface-hub==1.24.0 
 tqdm==4.68.4
 requests==2.34.2
-fitz==0.0.1.dev2
-frontend=0.0.3
+pymupdf==1.28.0
 mistral-common>=1.11.5,<2
